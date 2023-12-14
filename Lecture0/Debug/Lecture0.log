@@ -1,0 +1,21 @@
+﻿  Lecture0.cpp
+C:\Users\vhilf\source\repos\Lecture0\Lecture0.cpp(27,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\vhilf\source\repos\Lecture0\Lecture0.cpp(28,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vhilf\source\repos\Lecture0\Lecture0.cpp(34,39): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vhilf\source\repos\Lecture0\Lecture0.cpp(34,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vhilf\source\repos\Lecture0\Lecture0.cpp(35,39): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vhilf\source\repos\Lecture0\Lecture0.cpp(35,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vhilf\source\repos\Lecture0\Lecture0.cpp(36,39): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vhilf\source\repos\Lecture0\Lecture0.cpp(36,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vhilf\source\repos\Lecture0\Lecture0.cpp(37,39): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vhilf\source\repos\Lecture0\Lecture0.cpp(37,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vhilf\source\repos\Lecture0\Lecture0.cpp(55,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vhilf\source\repos\Lecture0\Lecture0.cpp(60,39): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vhilf\source\repos\Lecture0\Lecture0.cpp(60,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vhilf\source\repos\Lecture0\Lecture0.cpp(61,39): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vhilf\source\repos\Lecture0\Lecture0.cpp(61,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vhilf\source\repos\Lecture0\Lecture0.cpp(62,39): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vhilf\source\repos\Lecture0\Lecture0.cpp(62,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vhilf\source\repos\Lecture0\Lecture0.cpp(63,39): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vhilf\source\repos\Lecture0\Lecture0.cpp(63,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  Lecture0.vcxproj -> C:\Users\vhilf\source\repos\Lecture0\Debug\Lecture0.exe
